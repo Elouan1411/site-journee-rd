@@ -1,0 +1,10 @@
+{
+    "name": "R&Day",
+    "description": "Journée R&D du CMI Informatique - 2025",
+    "author": "Elouan & Aymeric",
+    "version": "1.0.0",
+    "config": {
+      "lang": "fr",
+      "theme": "light"
+    }
+}
