@@ -393,10 +393,10 @@ footer .contenu-footer .bloc ul li a:hover {
   height: auto;
 }
 .main-section img {
-  background: rgb(12, 11, 193);
+  background: rgb(193, 11, 87);
   position: relative;
   z-index: -2;
-  padding-top: 100px;
+  padding-top: 140px;
   width: 100%;
   height: auto;
   user-select: none;
