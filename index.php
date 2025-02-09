@@ -60,7 +60,7 @@
                 <!-- logo -->
                 <a href="./index.php" class="nav-icon" aria-label="Visit homepage" aria-current="page">
                     <img src="./assets/favicon/icon.png" alt="Web site icon">
-                    <span>R&Day - 27 Mars</span>
+                    <span>R&Day - 27 Mars 2025</span>
                 </a>
 
                 <!-- hamburger -->
