@@ -20,7 +20,7 @@ $description_page = "Page d'information sur le lieu de la journée";
 
         <h3>Horaires de la journée :</h3>
         <br>
-        <p class="text">Votre journée commence le <strong>mercredi 27 mars</strong> 2024 à 9h et se termine le même jour à 18h.</p>
+        <p class="text">Votre journée commence le <strong>mercredi 27 mars</strong> 2025 à 9h et se termine le même jour à 18h.</p>
         <p class="text">Des ateliers, sur le thème de <i>«Physique quantique et Informatique, le duo qui redéfinit l'avenir»</i>, serons animés tout le temps de la journée. Une conférence tenue par Monsieur <i>--n</i> est prévue à --h portant sur le thème <i>«--»</i>, (<a href="./intervenant.php">voir la page sur l'intervenant</a>).</p>
 
         <br><br><br>
