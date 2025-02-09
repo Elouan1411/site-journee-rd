@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Journée de Recherche et Développement (R&Day) du CMI Informatique de Besaçon - 2025. Cette journée porte sur le thème «Physique quantique et Informatique, le duo qui redéfinit l'avenir». Une conférence tenue par -- est prévue, portant sur le thème «--».">
+        content="Journée de Recherche et Développement (R&Day) du CMI Informatique de Besançon - 2025. Cette journée porte sur le thème «Physique quantique et Informatique, le duo qui redéfinit l'avenir». Une conférence tenue par -- est prévue, portant sur le thème «--».">
     <meta name="keywords"
         content="Besancon, besaçon, rnday, R&D, R&DAY, R&Day, R et D, Recherche, Développement, CMI, Informatique, quantique, physique">
     <link rel="canonical" href="http://rnday.ofni.asso.fr/" />
