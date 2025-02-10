@@ -117,6 +117,7 @@
                         alt="bouton pour descendre plus bas dans le site" title="descendre"></a>
             </div>
         </section>
+        <section class="transition"></section>
         <section class="template-section">
             <div class="template-container">
                 <h1 class="template">R&Day</h1>
