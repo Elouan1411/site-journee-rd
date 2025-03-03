@@ -15,7 +15,8 @@ $description_page = "Page de l'intervenant de la journée";
             <img src="../pictures/photo-chercheur.jpg" width="200px" height="200px" alt="photo du conférencier"
                 loading="lazy">
             <h3>Conférencier</h3>
-            <p><strong><i>Nom Prénom</i></strong> est -- à --. Spécialiste de --.</p>
+            <p><strong><i>NEVES Simon</i></strong> est un maître de conférence et chercheur au sein de l’université Marie et Louis Pasteur et du laboratoire FEMTO. <br><br>Après avoir fait une école préparatoire au lycée Victor Hugo de Besançon, il a obtenu sa licence et son master à l’université de Lyon. Il a ensuite étudié l’université de La Sorbonne pour un nouveau master en physique ainsi que pour son doctorat en physique. <br><br>Après ses etudes, il est parti à l’université de Genève, en Suisse dans la section de recherche post doctorale et développer ses premières recherches suite à son doctorat. 
+            Il devient ensuite maître de conférences à l’université de franche comté en septembre 2024 et continue ses recherches au laboratoire de FEMTO</p>
         </article>
         <br><br><br>
 
@@ -29,11 +30,11 @@ $description_page = "Page de l'intervenant de la journée";
 
         <h3>Thème :</h3>
         <p class="text">La conférence s'inscrit dans le thème plus large de l'informatique quantique et de la recherche
-            & développement, explorant les liens entre --.</p>
+            & développement,  .</p>
         <br>
 
         <h3>Durée de la Conférence :</h3>
-        <p class="text">La conférence durera environ -- minutes est sera suivie d'une session de questions-réponses.</p>
+        <p class="text">La conférence durera environ 45 minutes et sera suivie d'une session de questions-réponses.</p>
         <br>
 
         <h3>Public Cible :</h3>
@@ -54,7 +55,7 @@ $description_page = "Page de l'intervenant de la journée";
         <p class="text">Pour plus d'information sur le déroulement de la journée, <a href="./lieu.php">voir la page
                 d'informations</a>.</p>
         <p class="text">Pour toute question, veuillez contacter notre support par Mail à <a
-                href="mailto:tristan.amiotte-suchet@edu.univ-fcomte.fr">contact@rday.fr</a>.</p>
+                href="mailto:samia.benali@edu.univ-fcomte.fr">contact@rday.fr</a>.</p>
     </div>
 </section>
 

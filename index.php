@@ -128,20 +128,20 @@
                     enseignants et des professionnels de l'industrie.</p>
                 <br>
                 <h3>Qui sommes nous ?</h3>
-                <p class="text">Nous sommes des étudiants en 2ème année de Licence d'informatique à l'Université Marie
-                    et Louis Pasteur anciennement Université de Franche-Comté à Besançon avec option Cursus Master en
-                    Ingénierie. Nous suivons un parcours universitaire scientifique de cinq ans (licence, suivi du
+                <p class="text">Nous sommes des étudiants en 2ème année de Licence d'informatique ou de physique, suivant le Cursus Master en
+                Ingénierie, à l'Université Marie
+                    et Louis Pasteur anciennement Université de Franche-Comté à Besançon. Nous suivons un parcours universitaire scientifique de cinq ans (licence, suivi du
                     master)
-                    auquel sont adossé des cours de communication, connaissances du monde en entreprise, des projets
-                    individuels ou collectifs et stages, permettant au final d'obtenir, en plus du master classique, un
+                    auquel sont adossés des cours de communication, de gestion d'entreprises, des projets
+                    individuels ou collectifs et des stages. Cela nous permettra au final d'obtenir, en plus du master classique, un
                     diplome universitaire (DU) CMI.
                     C'est dans cette optique que nous organisons cette journée R&Day.
                 </p>
                 <br>
                 <h3>Quel est le sujet de la journée ?</h3>
                 <p class="text">Cette journée de Recherche et Développement tournera autour du thème de la physique
-                    quantique et l'informatique, avec comme sujet : «Physique quantique et Informatique, le duo qui
-                    redéfinit l'avenir». Nous avons choisi d’explorer ce domaine en raison de son potentiel
+                    quantique et l'informatique, avec comme sujet : « Physique quantique et Informatique, le duo qui
+                    redéfinit l'avenir ». Nous avons choisi d’explorer ce domaine en raison de son potentiel
                     révolutionnaire. L’informatique quantique et la physique quantique ouvrent de nouvelles perspectives
                     dans des domaines variés, allant de la cryptographie à l’intelligence artificielle. Leur
                     développement soulève des défis scientifiques et technologiques majeurs tout en offrant des
@@ -190,9 +190,6 @@
                     <a href="https://www.instagram.com/besacmi/" target="_blank"><img
                             src="./assets/logo/logo_besacmi.png" alt="logo Besa'CMI" title="instagram Besa'CMI"
                             loading="lazy"></a>
-                    <a href="https://mangeursdepierres.bigcartel.com/" target="_blank"><img
-                            src="./assets/logo/logo_mangeursdepierres.png" alt="logo Mangeurs de Pierres"
-                            title="site Mangeurs de Pierres" loading="lazy"></a>
                     <a href="https://www.univ-fcomte.fr/" target="_blank"><img src="./assets/logo/logo_ufr.png"
                             alt="logo université Marie et Louis Pasteur" title="site UFR-ST" loading="lazy"></a>
                     <a href="https://ofni.asso.fr/" target="_blank"><img src="./assets/logo/logo-ofni.png"
@@ -203,9 +200,6 @@
                     <a href="https://www.instagram.com/besacmi/" target="_blank"><img
                             src="./assets/logo/logo_besacmi.png" alt="logo Besa'CMI" title="instagram Besa'CMI"
                             loading="lazy"></a>
-                    <a href="https://mangeursdepierres.bigcartel.com/" target="_blank"><img
-                            src="./assets/logo/logo_mangeursdepierres.png" alt="logo Mangeurs de Pierres"
-                            title="site Mangeurs de Pierres" loading="lazy"></a>
                 </div>
                 <div class="logos-slide">
                     <a href="https://www.univ-fcomte.fr/" target="_blank"><img src="./assets/logo/logo_ufr.png"
@@ -218,9 +212,6 @@
                     <a href="https://www.instagram.com/besacmi/" target="_blank"><img
                             src="./assets/logo/logo_besacmi.png" alt="logo Besa'CMI" title="instagram Besa'CMI"
                             loading="lazy"></a>
-                    <a href="https://mangeursdepierres.bigcartel.com/" target="_blank"><img
-                            src="./assets/logo/logo_mangeursdepierres.png" alt="logo Mangeurs de Pierres"
-                            title="site Mangeurs de Pierres" loading="lazy"></a>
                     <a href="https://www.univ-fcomte.fr/" target="_blank"><img src="./assets/logo/logo_ufr.png"
                             alt="logo université Marie et Louis Pasteur" title="site UFR-ST" loading="lazy"></a>
                     <a href="https://ofni.asso.fr/" target="_blank"><img src="./assets/logo/logo-ofni.png"
@@ -231,9 +222,6 @@
                     <a href="https://www.instagram.com/besacmi/" target="_blank"><img
                             src="./assets/logo/logo_besacmi.png" alt="logo Besa'CMI" title="instagram Besa'CMI"
                             loading="lazy"></a>
-                    <a href="https://mangeursdepierres.bigcartel.com/" target="_blank"><img
-                            src="./assets/logo/logo_mangeursdepierres.png" alt="logo Mangeurs de Pierres"
-                            title="site Mangeurs de Pierres" loading="lazy"></a>
                 </div>
             </div>
         </div>
@@ -259,14 +247,14 @@
                 <h3>Informations</h3>
                 <ul>
                     <li>
-                        <p><span>Lieu:</span> Université Marie et Louis Pasteur (Anciennement Université de
+                        <p><span>Lieu :</span> Université Marie et Louis Pasteur (Anciennement Université de
                             Franche-Comté), Besançon</p>
                     </li>
                     <li>
-                        <p><span>Jour:</span> jeudi 27 mars 2025</p>
+                        <p><span>Jour :</span> jeudi 27 mars 2025</p>
                     </li>
                     <li>
-                        <p><span>Horaires:</span> de 9h à 18h</p>
+                        <p><span>Horaires :</span> de 9h à 18h</p>
                     </li>
                 </ul>
             </div>
@@ -277,6 +265,7 @@
                     <li><a href="https://www.univ-fcomte.fr/" target="_blank">Université Marie et Louis Pasteur</a></li>
                     <li><a href="https://ofni.asso.fr/" target="_blank">Association OFNI</a></li>
                     <li><a href="https://www.instagram.com/bdestbesac/" target="_blank">Bureau des étudiants</a></li>
+                    <li><a href="https://www.instagram.com/besacmi/" target="_blank">Besa'CMI</a></li>
                 </ul>
             </div>
 
