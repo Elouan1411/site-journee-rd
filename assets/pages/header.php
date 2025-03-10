@@ -42,12 +42,12 @@
         <!-- bandeau infini -->
         <section class="infinit-part">
             <div class="container">
-                <span class="txt">Jeudi <span class="it">27 mars</span> 2025 de 9h à
+                <span class="txt">Jeudi <span class="it">27 mars</span> 2025 de 11h à
                     18h&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Campus de l'<span class="it">Université Marie et Louis
                         Pasteur</span>, hall Propédeutique&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;<span
                         class="it">Simon Neves</span> donne une conférence à 14h, amphithéâtre Lorius
                     --&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</span>
-                <span class="txt">Jeudi <span class="it">27 mars</span> 2025 de 9h à
+                <span class="txt">Jeudi <span class="it">27 mars</span> 2025 de 11h à
                     18h&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Campus de l'<span class="it">Université Marie et Louis
                         Pasteur</span>, hall Propédeutique&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;<span
                         class="it">Simon Neves</span> donne une conférence à 14h, amphithéâtre Lorius

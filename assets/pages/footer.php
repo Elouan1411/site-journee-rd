@@ -30,7 +30,7 @@
                     <p><span>Jour:</span> jeudi 27 mars 2025</p>
                 </li>
                 <li>
-                    <p><span>Horaires:</span> de 9h à 18h</p>
+                    <p><span>Horaires:</span> de 11h à 18h</p>
                 </li>
             </ul>
         </div>
