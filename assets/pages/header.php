@@ -45,12 +45,12 @@
                 <span class="txt">Jeudi <span class="it">27 mars</span> 2025 de 9h à
                     18h&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Campus de l'<span class="it">Université Marie et Louis
                         Pasteur</span>, hall Propédeutique&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;<span
-                        class="it">intervenant à définir</span> donne une conférence à --h, amphithéâtre
+                        class="it">Simon Neves</span> donne une conférence à 14h, amphithéâtre Lorius
                     --&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</span>
                 <span class="txt">Jeudi <span class="it">27 mars</span> 2025 de 9h à
                     18h&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Campus de l'<span class="it">Université Marie et Louis
                         Pasteur</span>, hall Propédeutique&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;<span
-                        class="it">intervenant à définir</span> donne une conférence à --h, amphithéâtre
+                        class="it">Simon Neves</span> donne une conférence à 14h, amphithéâtre Lorius
                     --&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</span>
             </div>
         </section>
@@ -79,7 +79,7 @@
                 <div class="navlinks-container">
                     <a href="../../index.php" aria-current="page">Accueil</a>
                     <a href="./lieu.php">Informations</a>
-                    <a href="./intervenant.php">Intervenant</a>
+                    <a href="./intervenant.php">Intervenants</a>
 
                     <a id="insta" class="lens-container"
                         href="https://www.instagram.com/rnday_info?igsh=am0yam5yYXo1eDNq&utm_source=qr" target="_blank">

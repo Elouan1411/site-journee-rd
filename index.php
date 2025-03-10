@@ -55,12 +55,12 @@
                 <span class="txt">Jeudi <span class="it">27 mars</span> 2025 de 9h à
                     18h&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Campus de l'<span class="it">Université de
                         Marie et Louis Pasteur</span>, hall Propédeutique&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;<span
-                        class="it">intervenant à définir</span> donne une conférence à --h, amphithéâtre
+                        class="it">Simon Neves</span> donne une conférence à 14h, amphithéâtre Lorius
                     --&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</span>
                 <span class="txt">Jeudi <span class="it">27 mars</span> 2025 de 9h à
                     18h&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Campus de l'<span class="it">Université de
                         Marie et Louis Pasteur</span>, hall Propédeutique&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;<span
-                        class="it">intervenant à définir</span> donne une conférence à --h, amphithéâtre
+                        class="it">Simon Neves</span> donne une conférence à 14h, amphithéâtre Lorius
                     --&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</span>
             </div>
         </section>
@@ -89,7 +89,7 @@
                 <div class="navlinks-container">
                     <a href="./index.php" aria-current="page">Accueil</a>
                     <a href="./assets/pages/lieu.php">Informations</a>
-                    <a href="./assets/pages/intervenant.php">Intervenant</a>
+                    <a href="./assets/pages/intervenant.php">Intervenants</a>
 
                     <a id="insta" class="lens-container"
                         href="https://www.instagram.com/rnday_info?igsh=am0yam5yYXo1eDNq&utm_source=qr" target="_blank">
@@ -158,7 +158,7 @@
         </section>
         <section class="template-section">
             <div class="template-container">
-                <div class="affiche">
+                 <div class="affiche"> <!--TODO: mettre la bonne version -->
                     <h3>L'affiche de votre journée !</h3>
                     <a href="./assets/pictures/RNDAY_flyer.png" target="_blank">
                         <img src="./assets/pictures/RNDAY_flyer.png" alt="flyer de la journée" loading="lazy">
@@ -170,7 +170,7 @@
 
                 <p class="text affiche-text-dessous">Pour plus d'information sur le déroulement de la journée, <a
                         href="./assets/pages/lieu.php">voir la page d'informations</a>, et pour sur la conférence, <a
-                        href="./assets/pages/intervenant.php">voir la page sur l'intervenant de la journée</a>.</p>
+                        href="./assets/pages/intervenant.php">voir la page sur les intervenants de la journée</a>.</p>
             </div>
         </section>
 
@@ -254,13 +254,13 @@
                         <p><span>Jour :</span> jeudi 27 mars 2025</p>
                     </li>
                     <li>
-                        <p><span>Horaires :</span> de 9h à 18h</p>
+                        <p><span>Horaires :</span> de 11h à 18h</p>
                     </li>
                 </ul>
             </div>
 
             <div class="bloc footer-sponsor">
-                <h3>Nos Sponsors</h3>
+                <h3>Nos Sponsors et partenaires</h3>
                 <ul>
                     <li><a href="https://www.univ-fcomte.fr/" target="_blank">Université Marie et Louis Pasteur</a></li>
                     <li><a href="https://ofni.asso.fr/" target="_blank">Association OFNI</a></li>
