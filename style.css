@@ -749,6 +749,36 @@ footer .contenu-footer .bloc ul li a:hover {
   clear: both;
 }
 
+.image-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.image-container img {
+  max-width: 23%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.32);
+}
+
+.image-container-tik img {
+  max-width: 30%;
+}
+
+.image-container-histoire img {
+  max-width: 45%;
+}
+
+.image-container-IBM img {
+  max-width: 26%;
+}
+
+.image-container-rail img {
+  max-width: 35%;
+}
+
 .logos {
   border-top: 1px dashed rgb(0, 0, 0);
   overflow: hidden;
@@ -1195,6 +1225,10 @@ footer .contenu-footer .bloc ul li a:hover {
 }
 #navbar .first-container .navlinks-container a:hover::after {
   transform: scaleX(1);
+}
+
+.text_centre{
+  text-align: center;
 }
 
 

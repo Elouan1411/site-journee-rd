@@ -52,16 +52,20 @@
         <!-- bandeau infini -->
         <section class="infinit-part">
             <div class="container">
-                <span class="txt">Jeudi <span class="it">27 mars</span> 2025 de 11h à
-                    18h&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Campus de l'<span class="it">Université de
-                        Marie et Louis Pasteur</span>, hall Propédeutique&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;<span
-                        class="it">Simon Neves</span> donne une conférence à 14h, amphithéâtre Lorius
-                    --&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</span>
-                <span class="txt">Jeudi <span class="it">27 mars</span> 2025 de 11h à
-                    18h&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Campus de l'<span class="it">Université de
-                        Marie et Louis Pasteur</span>, hall Propédeutique&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;<span
-                        class="it">Simon Neves</span> donne une conférence à 14h, amphithéâtre Lorius
-                    --&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</span>
+            <span class="txt">
+                    Jeudi <span class="it">27 mars</span> 2025 de 11h à 18h
+                    &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+                    Campus de l'<span class="it">Université Marie et Louis Pasteur</span>, hall Propédeutique&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+                    <span class="it">Simon Neves</span> donne une conférence (informatique) à 14h, amphithéâtre Lorius&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+                    <span class="it">Benjamin Rousseaux</span> donne une conférence (physique) à 11h, amphithéâtre Lorius&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+                </span>
+                <span class="txt">
+                    Jeudi <span class="it">27 mars</span> 2025 de 11h à 18h
+                    &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+                    Campus de l'<span class="it">Université Marie et Louis Pasteur</span>, hall Propédeutique&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+                    <span class="it">Simon Neves</span> donne une conférence (informatique) à 14h, amphithéâtre Lorius&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+                    <span class="it">Benjamin Rousseaux</span> donne une conférence (physique) à 11h, amphithéâtre Lorius&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+                </span>
             </div>
         </section>
 
@@ -124,8 +128,9 @@
                 <br><br><br><br><br>
                 <h3>Qu'est-ce que la Journée R&Day ?</h3>
                 <p class="text">La Journée Recherche et Développement (R&D ou encore R&Day) a pour objectif de créer un
-                    environnement propice à l'apprentissage, à la discussion et à l'interaction entre les étudiants, les
-                    enseignants et des professionnels de l'industrie.</p>
+                    environnement propice à l'apprentissage, à la discussion et à l'interaction à travers des <a
+                    href="./assets/pages/lieu.php">stands</a> et des <a
+                    href="./assets/pages/intervenant.php">conférences</a> entre les étudiants, les enseignants et les professionnels de l'industrie.</p>
                 <br>
                 <h3>Qui sommes nous ?</h3>
                 <p class="text">Nous sommes des étudiants en 2ème année de Licence d'informatique ou de physique, suivant le Cursus Master en
@@ -134,7 +139,7 @@
                     master)
                     auquel sont adossés des cours de communication, de gestion d'entreprises, des projets
                     individuels ou collectifs et des stages. Cela nous permettra au final d'obtenir, en plus du master classique, un
-                    diplome universitaire (DU) CMI.
+                    diplôme universitaire (DU) CMI.
                     C'est dans cette optique que nous organisons cette journée R&Day.
                 </p>
                 <br>
@@ -158,7 +163,7 @@
         </section>
         <section class="template-section">
             <div class="template-container">
-                 <div class="affiche"> <!--TODO: mettre la bonne version -->
+                 <div class="affiche"> 
                     <h3>L'affiche de votre journée !</h3>
                     <a href="./assets/pictures/RNDAY_flyer.png" target="_blank">
                         <img src="./assets/pictures/RNDAY_flyer.png" alt="flyer de la journée" loading="lazy">
@@ -190,6 +195,9 @@
                     <a href="https://www.instagram.com/besacmi/" target="_blank"><img
                             src="./assets/logo/logo_besacmi.png" alt="logo Besa'CMI" title="instagram Besa'CMI"
                             loading="lazy"></a>
+                    <a href="https://www.femto-st.fr/fr" target="_blank"><img
+                            src="./assets/logo/logo_femto.png" alt="logo FEMTO" title="site FEMTO"
+                            loading="lazy"></a>
                     <a href="https://www.univ-fcomte.fr/" target="_blank"><img src="./assets/logo/logo_ufr.png"
                             alt="logo université Marie et Louis Pasteur" title="site UFR-ST" loading="lazy"></a>
                     <a href="https://ofni.asso.fr/" target="_blank"><img src="./assets/logo/logo-ofni.png"
@@ -199,6 +207,9 @@
                             title="instagram BDE" loading="lazy"></a>
                     <a href="https://www.instagram.com/besacmi/" target="_blank"><img
                             src="./assets/logo/logo_besacmi.png" alt="logo Besa'CMI" title="instagram Besa'CMI"
+                            loading="lazy"></a>
+                    <a href="https://www.femto-st.fr/fr" target="_blank"><img
+                            src="./assets/logo/logo_femto.png" alt="logo FEMTO" title="site FEMTO"
                             loading="lazy"></a>
                 </div>
                 <div class="logos-slide">
@@ -212,6 +223,9 @@
                     <a href="https://www.instagram.com/besacmi/" target="_blank"><img
                             src="./assets/logo/logo_besacmi.png" alt="logo Besa'CMI" title="instagram Besa'CMI"
                             loading="lazy"></a>
+                    <a href="https://www.femto-st.fr/fr" target="_blank"><img
+                            src="./assets/logo/logo_femto.png" alt="logo FEMTO" title="site FEMTO"
+                            loading="lazy"></a>
                     <a href="https://www.univ-fcomte.fr/" target="_blank"><img src="./assets/logo/logo_ufr.png"
                             alt="logo université Marie et Louis Pasteur" title="site UFR-ST" loading="lazy"></a>
                     <a href="https://ofni.asso.fr/" target="_blank"><img src="./assets/logo/logo-ofni.png"
@@ -221,6 +235,9 @@
                             title="instagram BDE" loading="lazy"></a>
                     <a href="https://www.instagram.com/besacmi/" target="_blank"><img
                             src="./assets/logo/logo_besacmi.png" alt="logo Besa'CMI" title="instagram Besa'CMI"
+                            loading="lazy"></a>
+                    <a href="https://www.femto-st.fr/fr" target="_blank"><img
+                            src="./assets/logo/logo_femto.png" alt="logo FEMTO" title="site FEMTO"
                             loading="lazy"></a>
                 </div>
             </div>
@@ -266,6 +283,7 @@
                     <li><a href="https://ofni.asso.fr/" target="_blank">Association OFNI</a></li>
                     <li><a href="https://www.instagram.com/bdestbesac/" target="_blank">Bureau des étudiants</a></li>
                     <li><a href="https://www.instagram.com/besacmi/" target="_blank">Besa'CMI</a></li>
+                    <li><a href="https://www.femto-st.fr/fr" target="_blank">FEMTO</a></li>
                 </ul>
             </div>
 

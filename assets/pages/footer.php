@@ -43,8 +43,7 @@
                 <li><a href="https://www.instagram.com/bdestbesac/" target="_blank">Association Bureau des étudiants
                         Université de Sciences et Techniques de Besançon</a></li>
                 <li><a href="https://www.instagram.com/besacmi/" target="_blank">Association Besa'CMI</a></li>
-                <li><a href="https://mangeursdepierres.bigcartel.com/" target="_blank">Association Mangeurs de
-                        pierres</a></li>
+                <li><a href="https://www.femto-st.fr/fr" target="_blank">FEMTO</a></li>
             </ul>
         </div>
 

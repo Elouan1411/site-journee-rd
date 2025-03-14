@@ -112,7 +112,7 @@ window.addEventListener("load", function () {
 
     const getChrono = () => {
         const now = new Date().getTime();
-        const countdownDate = new Date("March 27, 2025 09:00:00").getTime();
+        const countdownDate = new Date("March 27, 2025 11:00:00").getTime();
         const distanceBase = countdownDate - now;
 
         const days = Math.floor(distanceBase / (1000 * 60 * 60 * 24));
