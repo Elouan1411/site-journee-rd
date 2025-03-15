@@ -40,8 +40,7 @@
             <ul>
                 <li><a href="https://www.univ-fcomte.fr/" target="_blank">Université Marie et Louis Pasteur</a></li>
                 <li><a href="https://ofni.asso.fr/" target="_blank">Association OFNI</a></li>
-                <li><a href="https://www.instagram.com/bdestbesac/" target="_blank">Association Bureau des étudiants
-                        Université de Sciences et Techniques de Besançon</a></li>
+                <li><a href="https://www.instagram.com/bdestbesac/" target="_blank">Bureau des étudiants</a></li>
                 <li><a href="https://www.instagram.com/besacmi/" target="_blank">Association Besa'CMI</a></li>
                 <li><a href="https://www.femto-st.fr/fr" target="_blank">FEMTO</a></li>
             </ul>
