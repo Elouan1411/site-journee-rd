@@ -32,6 +32,13 @@ body {
     color: #333;
   }
 }
+@media (prefers-color-scheme: light) {
+  body {
+    /* couleur fond */
+    background-color: #6E7DAB;
+    color: #333;
+  }
+}
 body .contenu {
   flex: 1 0 auto;
 }
@@ -53,6 +60,11 @@ html {
   width: 100%;
 }
 @media (prefers-color-scheme: dark) {
+  .template-section {
+    color: #D1E3DD;
+  }
+}
+@media (prefers-color-scheme: light) {
   .template-section {
     color: #D1E3DD;
   }
@@ -85,6 +97,11 @@ html {
   transition: 0.3s ease-out;
 }
 @media (prefers-color-scheme: dark) {
+  .template-section .template-container .text a {
+    color: #c0c0c0;
+  }
+}
+@media (prefers-color-scheme: light) {
   .template-section .template-container .text a {
     color: #c0c0c0;
   }
@@ -229,6 +246,13 @@ footer {
     border-top: 1px dashed #fff;
   }
 }
+@media (prefers-color-scheme: light) {
+  footer {
+    background-color: #333;
+    color: #c0c0c0;
+    border-top: 1px dashed #fff;
+  }
+}
 footer .contenu-footer {
   max-width: 1200px;
   margin: 0 auto;
@@ -294,6 +318,11 @@ footer .contenu-footer .bloc ul li a {
     color: #c0c0c0;
   }
 }
+@media (prefers-color-scheme: light) {
+  footer .contenu-footer .bloc ul li a {
+    color: #c0c0c0;
+  }
+}
 footer .contenu-footer .bloc ul li a:hover {
   color: rgb(134, 92, 217);
 }
@@ -310,6 +339,12 @@ footer .contenu-footer .bloc ul li a:hover {
   animation-play-state: paused;
 }
 @media (prefers-color-scheme: dark) {
+  .infinit-part {
+    background-color: #333;
+    color: #c0c0c0;
+  }
+}
+@media (prefers-color-scheme: light) {
   .infinit-part {
     background-color: #333;
     color: #c0c0c0;
@@ -343,11 +378,21 @@ footer .contenu-footer .bloc ul li a:hover {
     background: linear-gradient(to left, transparent, #333);
   }
 }
+@media (prefers-color-scheme: light) {
+  .infinit-part .container::before {
+    background: linear-gradient(to left, transparent, #333);
+  }
+}
 .infinit-part .container::after {
   right: 0;
   background: linear-gradient(to right, transparent, #ffffff);
 }
 @media (prefers-color-scheme: dark) {
+  .infinit-part .container::after {
+    background: linear-gradient(to right, transparent, #333);
+  }
+}
+@media (prefers-color-scheme: light) {
   .infinit-part .container::after {
     background: linear-gradient(to right, transparent, #333);
   }
@@ -406,6 +451,11 @@ footer .contenu-footer .bloc ul li a:hover {
     mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 60%, rgba(0,0,0,0) 100%);
 }
 @media (prefers-color-scheme: dark) {
+  .main-section img {
+    filter: brightness(85%);
+  }
+}
+@media (prefers-color-scheme: light) {
   .main-section img {
     filter: brightness(85%);
   }
@@ -513,6 +563,11 @@ footer .contenu-footer .bloc ul li a:hover {
     filter: brightness(70%);
   }
 }
+@media (prefers-color-scheme: light) {
+  .main-section #scrool-bottom {
+    filter: brightness(70%);
+  }
+}
 @media screen and (max-width: 1100px) {
   .main-section #scrool-bottom {
     display: none;
@@ -571,6 +626,11 @@ footer .contenu-footer .bloc ul li a:hover {
   transition: color 0.3s ease-out;
 }
 @media (prefers-color-scheme: dark) {
+  .quatre-cent-quatre a {
+    color: #c0c0c0;
+  }
+}
+@media (prefers-color-scheme: light) {
   .quatre-cent-quatre a {
     color: #c0c0c0;
   }
@@ -652,6 +712,11 @@ footer .contenu-footer .bloc ul li a:hover {
   }
 }
 @media (prefers-color-scheme: dark) {
+  .chronometre h4 {
+    color: #c0c0c0;
+  }
+}
+@media (prefers-color-scheme: light) {
   .chronometre h4 {
     color: #c0c0c0;
   }
@@ -794,6 +859,13 @@ footer .contenu-footer .bloc ul li a:hover {
     border-top: 1px dashed #fff;
   }
 }
+@media (prefers-color-scheme: light) {
+  .logos {
+    background-color: #333;
+    color: #c0c0c0;
+    border-top: 1px dashed #fff;
+  }
+}
 .logos:hover .logo-slide-container .logos-slide {
   animation-play-state: paused;
 }
@@ -814,11 +886,21 @@ footer .contenu-footer .bloc ul li a:hover {
     background: linear-gradient(to left, transparent, #333);
   }
 }
+@media (prefers-color-scheme: light) {
+  .logos .logo-slide-container::before {
+    background: linear-gradient(to left, transparent, #333);
+  }
+}
 .logos .logo-slide-container::after {
   right: 0;
   background: linear-gradient(to right, transparent, #ffffff);
 }
 @media (prefers-color-scheme: dark) {
+  .logos .logo-slide-container::after {
+    background: linear-gradient(to right, transparent, #333);
+  }
+}
+@media (prefers-color-scheme: light) {
   .logos .logo-slide-container::after {
     background: linear-gradient(to right, transparent, #333);
   }
@@ -972,6 +1054,12 @@ footer .contenu-footer .bloc ul li a:hover {
     color: #c0c0c0;
   }
 }
+@media (prefers-color-scheme: light) {
+  .loader {
+    background: #6E7DAB;
+    color: #c0c0c0;
+  }
+}
 
 .loader.fondu-out {
   opacity: 0;
@@ -1011,6 +1099,11 @@ footer .contenu-footer .bloc ul li a:hover {
 
 
 @media (prefers-color-scheme: dark) {
+  #navbar {
+    color: #c0c0c0;
+  }
+}
+@media (prefers-color-scheme: light) {
   #navbar {
     color: #c0c0c0;
   }
@@ -1153,13 +1246,23 @@ footer .contenu-footer .bloc ul li a:hover {
 }
 @media screen and (max-width: 800px) and (prefers-color-scheme: light) {
   #navbar .first-container .navlinks-container {
-    background-color: rgba(255, 255, 255, 0.8588235294);
+    /* background-color: rgba(255, 255, 255, 0.8588235294);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    color: #333;
+    color: #333; */
+    background-color: rgba(192, 192, 192, 0.8901960784);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
   }
 }
 @media screen and (max-width: 800px) and (prefers-color-scheme: dark) {
+  #navbar .first-container .navlinks-container {
+    background-color: rgba(192, 192, 192, 0.8901960784);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+}
+@media screen and (max-width: 800px) and (prefers-color-scheme: light) {
   #navbar .first-container .navlinks-container {
     background-color: rgba(192, 192, 192, 0.8901960784);
     backdrop-filter: blur(10px);
@@ -1197,6 +1300,11 @@ footer .contenu-footer .bloc ul li a:hover {
   font-weight: 600;
 }
 @media (prefers-color-scheme: dark) {
+  #navbar .first-container .navlinks-container a:nth-child(1) {
+    color: #c0c0c0;
+  }
+}
+@media (prefers-color-scheme: light) {
   #navbar .first-container .navlinks-container a:nth-child(1) {
     color: #c0c0c0;
   }

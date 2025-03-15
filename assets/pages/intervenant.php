@@ -16,7 +16,7 @@ $description_page = "Page des intervenants de la journée";
             <img src="../pictures/photo-chercheur1.jpg" width="200px" height="200px" alt="photo du conférencier"
                 loading="lazy">
             <h3>Conférencier</h3>
-            <p><strong><i>NEVES Simon</i></strong> est un maître de conférence et chercheur au sein de l’université Marie et Louis Pasteur et du laboratoire FEMTO. <br><br>Après avoir fait une école préparatoire au lycée Victor Hugo de Besançon, il a obtenu sa licence et son master à l’université de Lyon. Il a ensuite étudié l’université de La Sorbonne pour un nouveau master en physique ainsi que pour son doctorat en physique. <br><br>Après ses etudes, il est parti à l’université de Genève, en Suisse dans la section de recherche post doctorale et développer ses premières recherches suite à son doctorat. 
+            <p><strong><i>NEVES Simon</i></strong> est un maître de conférence et chercheur au sein de l’université Marie et Louis Pasteur et du laboratoire FEMTO. <br><br>Après avoir fait une école préparatoire au lycée Victor Hugo de Besançon, il a obtenu sa licence et son master à l’université de Lyon. Il a ensuite étudié l’université de La Sorbonne pour un nouveau master en physique ainsi que pour son doctorat en physique. <br><br>Après ses études, il est parti à l’université de Genève, en Suisse dans la section de recherche post doctorale et développer ses premières recherches suite à son doctorat. 
             Il devient ensuite maître de conférences à l’université de franche comté en septembre 2024 et continue ses recherches au laboratoire de FEMTO</p>
         </article>
         <br><br><br>
